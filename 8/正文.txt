@@ -1,0 +1,582 @@
+['doctype html', '\n', <html>
+<head>
+<meta charset="utf-8"/>
+<title>刘鹏：弘扬企业家精神 促进持续健康发展_消费日报 - 贴近民生 服务百姓</title>
+<meta content="刘鹏,弘扬,企业家,精神,促进,持续,健康,发展," name="keywords">
+<meta content="今年9月，中共中央、国务院联合印发《关于营造企业家健康成长环境 弘扬优秀企业家精神 更好发挥企业家作用的意见》。《意见》的印发，对于正确认识和弘扬优秀企业家精神，深化供给侧结构性改革，有效激发市场活力，实现经济社会平稳健康可持续发展，具有十分重要的意义。对广大食企来说，如何承担食安主体责任，发扬企业家精神，践行 食品 安全战略成为当下重要课题。 中国 企业联合会副理事长 刘鹏 三大亮点重视权益 公平竞争 创新发展" name="description"/>
+<link href="http://www.xfrb.com.cn/templets/default/css/neirong.css" rel="stylesheet" type="text/css"/>
+<link href="http://www.xfrb.com.cn/templets/default/css/share_popup.css" rel="stylesheet" type="text/css"/>
+<link href="http://www.xfrb.com.cn/templets/default/css/share_style0_32.css" rel="stylesheet"/>
+<link href="http://www.xfrb.com.cn/templets/default/css/common.css" rel="stylesheet" type="text/css"/>
+<link href="http://www.xfrb.com.cn/templets/default/css/zhuce.css" rel="stylesheet" type="text/css"/>
+<script charset="utf-8" src="http://www.xfrb.com.cn/templets/default/js/jquery-1.8.3.min.js" type="text/javascript"></script>
+<script charset="utf-8" src="http://www.xfrb.com.cn/templets/default/js/j.js" type="text/javascript"></script>
+<script type="text/javascript">
+    var tid = "1272";
+    var aid = "229490";
+    var userAgentInfo = navigator.userAgent;
+    var Agents = ["Android", "iPhone",
+                "SymbianOS", "Windows Phone",
+                "iPad", "iPod"];
+    for (var v = 0; v < Agents.length; v++) {
+        if (userAgentInfo.indexOf(Agents[v]) > 0) {
+                  if(tid!=""&&tid!="0"&&aid==""){
+                         //window.location.href="http://m.xfrb.com.cn/index.php/Index/lists/id/"+tid+".html";
+                        // exit();
+                    }if(aid!=""){
+                         //window.location.href="http://m.xfrb.com.cn/index.php/index/view/id/"+aid+".html";
+                        // exit();
+                    }else{
+                        //window.location.href="http://m.xfrb.com.cn";
+                       // exit();
+                    }
+        }
+    }
+</script>
+<script>
+$(document).ready(function(){ 
+var newImage = new Image(); //预载入图片 
+var oldImage = $(' .huifu_img1').attr('src'); 
+
+newImage.src = 'http://www.xfrb.com.cn/templets/default/images/dian1_07.png'; 
+$('.huifu_img1').hover(function(){ //鼠标滑过图片切换 
+$('.huifu_img1').attr('src',newImage.src); 
+}, 
+function(){ 
+$('.huifu_img1').attr('src',oldImage); 
+}); 
+}); 
+</script>
+<script>
+$(document).ready(function(){ 
+var newImage = new Image(); //预载入图片 
+var oldImage = $(' .huifu_img').attr('src'); 
+
+newImage.src = 'http://www.xfrb.com.cn/templets/default/images/dian1_07.png'; 
+$('.huifu_img').hover(function(){ //鼠标滑过图片切换 
+$('.huifu_img').attr('src',newImage.src); 
+}, 
+function(){ 
+$('.huifu_img').attr('src',oldImage); 
+}); 
+}); 
+</script>
+<script>
+
+$(document).ready(function(){ 
+var newImage = new Image(); //预载入图片 
+var oldImage = $('.dz_img').attr('src'); 
+newImage.src = 'http://www.xfrb.com.cn/templets/default/images/collection2.png'; 
+$('.dz_img').hover(function(){ //鼠标滑过图片切换 
+$('.dz_img').attr('src',newImage.src); 
+}, 
+function(){ 
+$('.dz_img1').attr('src',oldImage); 
+}); 
+}); 
+</script>
+<script>
+
+$(document).ready(function(){ 
+var newImage = new Image(); //预载入图片 
+var oldImage = $('.dz_img1').attr('src'); 
+newImage.src = 'http://www.xfrb.com.cn/templets/default/images/dizan_03.png'; 
+$('.dz_img1').hover(function(){ //鼠标滑过图片切换 
+$('.dz_img1').attr('src',newImage.src); 
+}, 
+function(){ 
+$('.dz_img1').attr('src',oldImage); 
+}); 
+}); 
+</script>
+<script>
+$( function () {
+ 	
+
+ 	$('.collection').click(function(){
+				if($('.collection').hasClass('wo')){
+					$('.collection').removeClass('wo');
+					$('.dz_img').hide();
+				}
+				else{
+					$('.collection').addClass('wo');
+					$('.dz_img').show();
+				}
+			})
+		})
+
+ 	 	
+ 	 </script>
+<script>
+$( function () {
+ 	
+
+ 	$('.huifu_img').click(function(){
+				if($('.huifu_img').hasClass('wo')){
+					$('.huifu_img').removeClass('wo');
+					$('.huifu_img3').hide();
+				}
+				else{
+					$('.huifu_img').addClass('wo');
+					$('.huifu_img3').show();
+				}
+			})
+		})
+
+ 	 	
+ 	 </script>
+<script>
+$( function () {
+ 	
+
+ 	$('.huifu_img1').click(function(){
+				if($('.huifu_img1').hasClass('wo')){
+					$('.huifu_img1').removeClass('wo');
+					$('.huifu_img4').hide();
+				}
+				else{
+					$('.huifu_img1').addClass('wo');
+					$('.huifu_img4').show();
+				}
+			})
+		})
+
+ 	 	
+ 	 </script>
+<script>
+function change_pic(){
+var imgObj = document.getElementById("caocao_tt");
+if(imgObj.getAttribute("src",2)=="http://www.xfrb.com.cn/templets/default/images/fabulous.png"){
+imgObj.src="http://www.xfrb.com.cn/templets/default/images/dian1_07.png";
+}
+}
+</script>
+<script type="text/javascript">
+  var a=1;
+  function ts()
+  {
+   a++;
+   if(a%2==0)
+   {
+    document.getElementById("ss").src="http://www.xfrb.com.cn/templets/default/images/dizan_03.png";
+   }
+  
+  }
+</script>
+<script type="text/javascript">
+function changeImg(img) {
+        var imgObj = document.getElementById("img");
+     if(imgObj.getAttribute("src",2)=="http://www.xfrb.com.cn/templets/default/images/fabulous.png"){
+                  imgObj.src="http://www.xfrb.com.cn/templets/default/images/dian1_07.png";
+}
+}
+</script>
+</meta></head>
+<body>
+<!--header-->
+<div class="header_box">
+<div class="header">
+<a href="http://www.xfrb.com.cn/"><img src="http://www.xfrb.com.cn/templets/default/images/logo.png" style=" float:left; margin-top:20px; height:80px;"/></a>
+<div class="header_right">
+<div class="header_top">
+<div class="erweima_box" style="visibility:hidden;">
+<div class="erweima erweimanew" style="/*margin-right:15px;*/">
+<img src="http://www.xfrb.com.cn/templets/default/images/erweima01.png"/>
+<h1>消费日报官方微信</h1>
+</div>
+<div class="erweima erweimanew">
+<img src="http://www.xfrb.com.cn/templets/default/images/erweima02.png"/>
+<h1>每日必读APP</h1>
+</div>
+<div class="clearfix"></div>
+</div>
+<div class="xinmeiti_box xinmeiti_boxnew">
+<a href="http://mp.sohu.com/profile?xpt=c29odXptdGttYmx3dUBzb2h1LmNvbQ==&amp;qq-pf-to=pcqq.c2c">
+<div class="xinmeiti" style="background-color:#84cbc7; margin-right:6px; margin-bottom:6px; padding:0 1px 0 1px;">
+<img src="http://www.xfrb.com.cn/templets/default/images/wshouhu.png"/>
+<h1>搜狐客户端</h1>
+<div class="clearfix"></div>
+</div>
+</a>
+<a href="http://blog.sina.com.cn/xfrbxdjj">
+<div class="xinmeiti" style="background-color:#8ec158; margin-bottom:6px; margin-bottom:6px; padding:0 1px 0 1px;">
+<img src="http://www.xfrb.com.cn/templets/default/images/wwboke.png"/>
+<h1>中国家居博客</h1>
+<div class="clearfix"></div>
+</div>
+</a>
+<a href="http://weibo.com/u/2381872931">
+<div class="xinmeiti" style="background-color:#5ebdd6; margin-right:6px;">
+<img src="http://www.xfrb.com.cn/templets/default/images/wweibo.png"/>
+<h1>微博</h1>
+<div class="clearfix"></div>
+</div>
+<div class="saoma">
+<!--<img src="http://www.xfrb.com.cn/templets/default/images/erweima02.png" style="position:absolute; top:80px; left:0;">-->
+</div>
+</a>
+<a href="">
+<div class="xinmeiti" style="background-color:#d0aacc; margin-right:6px;">
+<img src="http://www.xfrb.com.cn/templets/default/images/wshoujiwangye.png"/>
+<h1>手机网页</h1>
+<div class="clearfix"></div>
+</div>
+</a>
+<a href="">
+<div class="xinmeiti" style="background-color:#20b2d8;">
+<img src="http://www.xfrb.com.cn/templets/default/images/wshangcheng.png"/>
+<h1>商城</h1>
+<div class="clearfix"></div>
+</div>
+</a>
+<ul>
+<li><a href="https://meidadq.tmall.com/" target="_blank">美大电器旗舰店</a></li>
+<li><a href="http://shop.m.jd.com/?shopId=124258&amp;resourceType=jdapp_share&amp;resourceValue=Wxfriends&amp;utm_source=iosapp&amp;utm_medium=appshare&amp;utm_campaign=t_335139774&amp;utm_term=Wxfriends" target="_blank">京兰床垫旗舰店</a></li>
+<li><a href="http://www.hexingfurniture.com" target="_blank">合兴奇典居微官网</a></li>
+<li><a href="http://www.ykang.com" target="_blank">温州市颐康家居卫生用品官网</a></li>
+<li><a href="http://www.ccjieya.com" target="_blank">吉林省捷亚家俱科技有限公司</a></li>
+<li><a href="http://www.bjgzjlb.cn/" target="_blank">星秀工长俱乐部</a></li>
+<li><a href="https://hangguanjj.tmall.com/shop/view_shop.htm?spm=a220m.1000862.1000730.3.pn2JOC&amp;user_number_id=2453147285&amp;rn=600ddb1819af4ef7ce34c85516ffc362" target="_blank">航管家具旗舰店</a></li>
+<li><a href="https://kdt.im/x7mrTr" target="_blank">国富纵横微商城 </a></li>
+<li><a href="https://qilinjiaju.tmall.com/?spm=a220o.1000855.1997427133.d4918065.H22AOQ" target="_blank">麒麟旗舰店</a></li>
+</ul>
+<div class="clearfix"></div>
+</div>
+<div class="header_size">
+<div class="zhuguan">
+<p style="letter-spacing:5px">国务院国资委</p>
+<p style="margin-left:2px;">举  办</p>
+<div class="clearfix"></div>
+</div>
+<p style="margin-top:6px">中国轻工业联合会<span style="color:#fff; font-family:'宋体';"> 主管主办</span></p>
+</div>
+<div class="signin" style="display:none;">
+<a class="s_con" href="javascript:;" title="">登<br/>录</a>
+<a class="r_con" href="javascript:;">注<br/>册</a>
+<div class="clearfix"></div>
+</div>
+<div class="clearfix"></div>
+</div>
+<div class="clearfix"></div>
+</div>
+<div class="nav_box">
+<ul style="min-width:456px; float:right;">
+<li style="border-top:2px solid #e8d138;"><a href="http://www.xfrb.com.cn/">首页</a></li>
+<li style="border-top:2px solid #bc38e8;"><a href="http://www.xfrb.com.cn/html/chanyejiqun/">产业集群</a></li>
+<li style="border-top:2px solid #4138e8;"><a href="http://www.xfrb.com.cn/html/gaocengluntan/">高层论坛</a></li>
+<li style="border-top:2px solid #9fdc5e;"><a href="http://www.xfrb.com.cn/html/lishihui/">理事会</a></li>
+<li style="border-top:2px solid #e93838;border-right:1px solid #fff;"><a href="http://www.xfrb.com.cn/html/baoshejianshe/">报社建设</a></li>
+</ul>
+<ul style="min-width:1090px; float:right;">
+<li style="border-top:1px solid rgb(117, 125, 142);">  </li>
+<li style="border-top:1px solid rgb(117, 125, 142); width:89px;"> <a href="http://www.hotlinechina.cn">每日必读</a>  </li>
+<li style="border-top:1px solid rgb(117, 125, 142);"> <a href="http://www.xfrb.com.cn/html/xwzt/">新闻专题</a>  </li>
+<li style="border-top:1px solid rgb(117, 125, 142); width:89px;"> <a href="http://www.xfrb.com.cn/html/tupianku/">图片库</a>  </li>
+<li style="border-top:1px solid rgb(117, 125, 142); width:89px;"> <a href="http://www.xfrb.com.cn/html/zhiliangwanlixing/">质量万里行</a>  </li>
+<li style="border-top:1px solid rgb(117, 125, 142);"> <a href="http://www.xfrb.com.cn/html/chachanyelianmeng/">茶产业联盟</a>  </li>
+<li style="border-top:1px solid rgb(117, 125, 142);"> <a href="http://www.xfrb.com.cn/html/guanzhu/lvyou/">旅游</a>  </li>
+<li style="border-top:1px solid rgb(117, 125, 142);"> <a href="http://xfzj.xfrb.com.cn/">消费浙江</a>  </li>
+<li style="border-top:1px solid rgb(117, 125, 142);"> <a href="http://www.xfrb.com.cn/html/guanzhu/xiaofeiyuqing/">消费舆情</a>  </li>
+<li style="border-top:1px solid rgb(117, 125, 142);"> <a href="http://315.xfrb.com.cn">315活动</a>  </li>
+<li style="border-top:1px solid rgb(117, 125, 142);"> <a href="http://www.xfrb.com.cn/html/guanzhu/jujiaoganpo/">聚焦赣鄱</a> 
+ </li>
+<li style="border-top:1px solid rgb(117, 125, 142); border-right:1px solid #fff;"><a href="http://www.xfrb.com.cn/html/gonggao/121808.html">在线申诉</a>  </li>
+<div class="clearfix"></div>
+</ul>
+<div class="clearfix"></div>
+</div>
+<div class="clearfix"></div>
+</div>
+</div>
+<div class="content_box" style="overflow: hidden; padding: 0 0 0 130px;">
+<span style="float:left; padding: 0 10px 0 0;">公告:</span>
+<div class="scrollleft loge_bot" style="overflow: hidden; position: relative; float:left; width:1000px;">
+<ul style="margin: 0px; padding: 0px; overflow: hidden; position: relative; list-style: none; width: 5130px; height:25px; left: -371px;">
+<li style="position: relative; overflow: hidden; float: left;">
+<a href="http://www.xfrb.com.cn/html/gonggao/178538.html">  · 关于本报“湖南记者站”的声明  </a>
+</li>
+<li style="position: relative; overflow: hidden; float: left;">
+<a href="http://www.xfrb.com.cn/html/gonggao/172801.html">  · 本网与各新闻单位签署免责协议的公告  </a>
+</li>
+<li style="position: relative; overflow: hidden; float: left;">
+<a href="http://www.xfrb.com.cn/html/gonggao/172225.html">  · 消费日报与消费时报的关系声明  </a>
+</li>
+</ul>
+</div>
+</div>
+<script src="http://www.xfrb.com.cn/templets/default/js/index.js" type="text/javascript"></script>
+<script src="http://www.xfrb.com.cn/templets/default/js/responsiveslides.min.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+  $(".scrollleft").imgscroll({
+    speed: 40,    //图片滚动速度
+    amount: 0,    //图片滚动过渡时间
+    width: 1,     //图片滚动步数
+    dir: "left"   // "left" 或 "up" 向左或向上滚动
+  });
+});
+</script>
+<!--作者：zxl
+    时间：2017-06-15
+    描述：悬浮广告位
+  -->
+<!--content-->
+<div class="content_box">
+<!--content_left-->
+<div class="content_left">
+<h1 style=" font-size:18px; color:#323232; margin-top:26px;"><a href="http://www.xfrb.com.cn/">主页</a> &gt; <a href="http://www.xfrb.com.cn/html/xiaofeitoutiao/">消费头条</a> &gt; <a href="http://www.xfrb.com.cn/html/xiaofeitoutiao/">最新资讯</a> &gt; </h1>
+<div class="yt"> </div>
+<div class="title">刘鹏：弘扬企业家精神 促进持续健康发展 </div>
+<div class="fbt"> </div>
+<h3>发布时间：2017-12-13 11:57  来源：中国食品报   <span style="display: none;">浏览量：
+		<script language="javascript" src="http://user.xfrb.com.cn//index.php/public/click/id/229490" type="text/javascript"></script></span></h3>
+<img src="http://www.xfrb.com.cn/templets/default/images/line.png" style="margin-top:20px;"/>
+<div class="content_div"><p class=""><p style="margin: 0px; padding: 5px 10px; border: 0px; outline: 0px; color: rgb(26, 26, 26); font-family: Simsun; font-size: 16px;">
+	今年9月，中共中央、国务院联合印发《关于营造企业家健康成长环境  弘扬优秀企业家精神  更好发挥企业家作用的意见》。《意见》的印发，对于正确认识和弘扬优秀企业家精神，深化供给侧结构性改革，有效激发市场活力，实现经济社会平稳健康可持续发展，具有十分重要的意义。对广大食企来说，如何承担食安主体责任，发扬企业家精神，践行<a class="keylink" href="http://www.cnfood.cn/" style="margin: 0px; padding: 0px; border: 0px; outline: 0px; text-decoration: none; color: rgb(58, 58, 58);" target="_blank">食品</a>安全战略成为当下重要课题。</p>
+<p style="margin: 0px; padding: 5px 10px; border: 0px; outline: 0px; color: rgb(26, 26, 26); font-family: Simsun; font-size: 16px; text-align: center;">
+<img alt="\" src="http://www.xfrb.com.cn/uploads/allimg/171213/50-1G213120035520.jpg" style="margin: 0px; padding: 0px; border: 0px; outline: 0px; max-width: 690px; width: 447px; height: 325px;"/></p>
+<p style="margin: 0px; padding: 5px 10px; border: 0px; outline: 0px; color: rgb(26, 26, 26); font-family: Simsun; font-size: 16px; text-align: center;">
+<span style="margin: 0px; padding: 0px; border: 0px; outline: 0px; font-size: 14px;"><span style="margin: 0px; padding: 0px; border: 0px; outline: 0px; font-family: 微软雅黑;"><a class="keylink" href="http://www.cnfood.cn/" style="margin: 0px; padding: 0px; border: 0px; outline: 0px; text-decoration: none; color: rgb(58, 58, 58);" target="_blank">中国</a>企业联合会副理事长 刘鹏</span></span></p>
+<p style="margin: 0px; padding: 5px 10px; border: 0px; outline: 0px; color: rgb(26, 26, 26); font-family: Simsun; font-size: 16px;">
+<strong style="margin: 0px; padding: 0px; border: 0px; outline: 0px;">　　三大亮点——重视权益  公平竞争  创新发展</strong></p>
+<p style="margin: 0px; padding: 5px 10px; border: 0px; outline: 0px; color: rgb(26, 26, 26); font-family: Simsun; font-size: 16px;">
+	　　一是高度重视保护企业家合法权益，特别是保护企业家的财产权。《意见》不仅提出认真解决产权保护方面的突出问题，还要及时甄别纠正社会反映强烈的产权纠纷申诉案件，建立政策变动对企业权益受损的补偿救济机制。这个《意见》给企业家吃了一颗定心丸。</p>
+<p style="margin: 0px; padding: 5px 10px; border: 0px; outline: 0px; color: rgb(26, 26, 26); font-family: Simsun; font-size: 16px;">
+	　　二是建立完善公平竞争的市场环境，营造良好的经营条件。《意见》提出要落实公平竞争的审查制度，确立竞争政策基础性地位，反对垄断和不正当竞争。反对地方保护，依法清理废除妨碍统一市场竞争的各种规定和做法，完善权力平等、机会平等、规则平等的市场环境。同时，强调要持续提高监管的公平性、规范性、简约性。这就要求政府要加大改革力度，特别要约束政府的权力，减少行政审批，消除所有制歧视，加快建立配套的体制改革，包括投融资体制、财政税收体制等各领域改革，为建立竞争性制度创造条件。</p>
+<p style="margin: 0px; padding: 5px 10px; border: 0px; outline: 0px; color: rgb(26, 26, 26); font-family: Simsun; font-size: 16px;">
+	　　 三是鼓励企业家创新发展，努力打造经济增长的新周期。由于传统增长模式不可持续，宏观经济从高速增长调整到中高速会成为必然。《意见》提出，要通过创新，激发生机活力，依法保护企业家创新权益，依法保护企业家拓展创新空间，持续推进产品创新、技术创新、商业模式创新、管理创新、制度创新，将创新创业作为终身追求，增强创新自信。</p>
+<p style="margin: 0px; padding: 5px 10px; border: 0px; outline: 0px; color: rgb(26, 26, 26); font-family: Simsun; font-size: 16px;">
+<strong style="margin: 0px; padding: 0px; border: 0px; outline: 0px;">　　付诸实践——勇于担当  诚信经营  回报社会</strong></p>
+<p style="margin: 0px; padding: 5px 10px; border: 0px; outline: 0px; color: rgb(26, 26, 26); font-family: Simsun; font-size: 16px;">
+	　　企业家要勇于担当  《意见》基本原则第一项就是强化责任担当。强调要引导企业家树立崇高理想信念，加强对企业家特别是年轻一代民营企业家的理想信念教育和社会主义核心价值观的教育，培养企业家国家使命感和民族自豪感，引导企业家正确处理国家利益、企业利益、员工利益和个人利益的关系，把个人理想融入民族复兴的伟大实践。同时，也强调激发企业家服务党、服务国家和人民的担当精神，特别是强调企业家要更好担负起经营管理国有资产、实现保值增值的重要责任，做强做优做大国有企业，不断提高企业核心竞争力。</p>
+<p style="margin: 0px; padding: 5px 10px; border: 0px; outline: 0px; color: rgb(26, 26, 26); font-family: Simsun; font-size: 16px;">
+	　　企业家要诚信经营  企业加强诚信建设，能够积累良好的企业信用，树立优良的企业形象，形成良好的企业口碑。企业信用已经越来越成为进入市场的准入证、参与经营活动的身份证、进入资金市场的通行证。诚信是企业潜在价值最大的无形资产，直接或者间接提高企业在社会经济中的运行效率，是全面提升管理的重要手段。</p>
+<p style="margin: 0px; padding: 5px 10px; border: 0px; outline: 0px; color: rgb(26, 26, 26); font-family: Simsun; font-size: 16px;">
+	　　企业家要回报社会  回报社会是企业家要履行的重要责任。企业要实现可持续发展需要不断回报社会，主动承担社会责任，努力实现企业和国家、社会、员工、环境的协调统一。国内外企业履行社会责任的成功经验表明，凡是在社会责任领域成绩突出，受到社会各界赞誉的企业，无不是企业充分认识到社会责任对形成良好企业形象发挥的重要作用。　（本报记者  赵洋艺  整理）  </p>
+</p></div>
+<div class="fy_pages">
+<ul class="pagelist">
+</ul>
+</div>
+<span style="width:760px; display:block; overflow:hidden;"><p style="float:right; font-size:18px; color:#2d2d2d; margin-top:35px;">【责任编辑：李志远】</p></span>
+<div class="fenxiang">
+<div class="bshare-custom icon-medium-plus"><div class="bsPromo bsPromo2"></div><a class="bshare-sinaminiblog" title="分享到新浪微博"></a><a class="bshare-weixin" href="javascript:void(0);" title="分享到微信"></a><a class="bshare-qqim" href="javascript:void(0);" title="分享到QQ好友"></a><a class="bshare-qzone" href="javascript:void(0);" title="分享到QQ空间"></a><a class="bshare-more bshare-more-icon more-style-addthis" title="更多平台"></a></div><script charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh" type="text/javascript"></script><script charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js" type="text/javascript"></script>
+</div>
+<div class="fenxiang_box">
+<div class="collection">
+<img class="dz_img1" id="ss" onclick="ts()" src="http://www.xfrb.com.cn/templets/default/images/collection.png" width="16"/>
+<img class="dz_img" height="14" src="http://www.xfrb.com.cn/templets/default/images/collection2.png" style="display: none;" width="16"/>
+<h1>收藏</h1>
+</div>
+<div class="clearfix"></div>
+</div>
+<!--        <p style=" font-size:16px; color:#6f6f6f; margin-top:25px; line-height:28px;">凡本网注明“来源：消费日报网”的作品，版权均属于消费日报网，如转载，须注明出处。本网部分文章信<br>息来源于网络转载，只是出于传递更多信息之目的，并不意味赞同其观点或对其内容的真实性负责。如对文<br>章内容有疑议，请及时与我们联系。</p> -->
+<div class="relevant_box">
+<h2>相关新闻</h2>
+<div class="relevant">
+<ul>
+<li><a href="http://www.xfrb.com.cn/html/xiaofeitoutiao/204521.html">中国陶瓷工业协会党支部以多种形式学习</a></li>
+<li><a href="http://www.xfrb.com.cn/html/xiaofeitoutiao/199337.html">辛识平：人民至上的深厚情怀——以习近</a></li>
+<li><a href="http://www.xfrb.com.cn/html/xiaofeitoutiao/196799.html">汇聚民心 护航发展——国际社会热评中国</a></li>
+<li><a href="http://www.xfrb.com.cn/html/xiaofeitoutiao/199807.html">党的十九大新闻发言人举行专题新闻发布</a></li>
+<li><a href="http://www.xfrb.com.cn/html/xiaofeitoutiao/220810.html">看齐“隐型冠军”做实实体经济</a></li>
+<li><a href="http://www.xfrb.com.cn/html/xiaofeitoutiao/198059.html">从“国家”到“强国”，一字之变深意何</a></li>
+<li><a href="http://www.xfrb.com.cn/html/xiaofeitoutiao/229492.html">高延敏:诚信为本 主动承担 共促食业良性</a></li>
+<li><a href="http://www.xfrb.com.cn/html/xiaofeitoutiao/195924.html">不忘初心 不负时代——党的十九大代表参</a></li>
+<li><a href="http://www.xfrb.com.cn/html/xiaofeitoutiao/199802.html">中央军委召开学习贯彻党的十九大精神工</a></li>
+<li><a href="http://www.xfrb.com.cn/html/xiaofeitoutiao/225247.html">拉开纪念“一二·九”运动序幕</a></li>
+<div class="clearfix"></div>
+</ul>
+</div>
+</div>
+</div>
+<!--content_right-->
+<div class="content_right">
+<!--shuziban-->
+<div class="shuziban_box">
+<h1>数字版</h1>
+<a href="http://e.xfrb.com.cn/">
+<img alt="" height="420" src="http://user.xfrb.com.cn/dianzibao/dianzibao/20171213/page_01.jpg" title="" width="300"/></a>
+</div>
+<!--banner-->
+<a href="https://www.baidu.com/" target="_blank"><img alt="tj171" src="http://www.xfrb.com.cn/templets/default/images/news-banner01.png" style="margin-top:20px; margin-bottom:20px;width:300px;height:250px;"/></a>
+<!--rediandiaocha-->
+<script type="text/javascript">
+            document.write("<script src='http://em.xfrb.com.cn/Public/Home/vote/vote_2.js'><\/script>"); 
+            </script>
+</div>
+<div class="clearfix"></div>
+</div>
+<!--bottombar-->
+<!--bottombar-->
+<div class="bottombar_box">
+<p style="padding-top:5px;">| <a href="http://www.xfrb.com.cn/html/zhandianxinxi/48.html">关于我们</a>
+| <a href="http://www.xfrb.com.cn/html/zhandianxinxi/47.html">报社招聘</a>
+| <a href="http://www.xfrb.com.cn/html/zhandianxinxi/46.html">免责声明</a>
+ | <a href="/sitemap.html" target="_balnk">站点地图</a> | <a href="http://www.xfrb.com.cn/html/renyuanchaxun/">人员查询</a> |<br/>违法和不良信息举报电话：010-67605353  商务合作：010-67604888    Email:xfrbw218@163.com  xfrbwlb@126.com   
+
+</p>
+<div class="xukezheng_box" style="width: 900px;">
+<div class="xukezheng" style="width:690px;">
+<span style="text-align: center; width:690px;display: block;">消费日报社地址 Add：北京市丰台区定安东里20号 邮编 P.C. 100075</span>
+<a href="http://www.12377.cn/"><img src="http://www.xfrb.com.cn/templets/default/images/1018.jpg" style="float:left`; margin-top:12px;"/></a>
+<img src="http://www.xfrb.com.cn/templets/default/images/dilan.jpg" style="float:left`; margin-top:12px;"/>
+</div>
+<a href="http://www.xfrb.com.cn/templets/default/images/xukezheng01.jpg" target="_balnk"><img src="http://www.xfrb.com.cn/templets/default/images/xukezheng01.jpg" style="width:100px; height:83px;"/></a>
+<a href="http://www.xfrb.com.cn/templets/default/images/copyright_licence.png" target="_balnk"><img src="http://www.xfrb.com.cn/templets/default/images/copyright_licence.png" style="width:59px; height:83px;"/></a>
+<div class="clearfix"></div>
+</div>
+<p style=" padding-bottom:5px;">京ICP备15058293号-1  <a href="http://www.xfrb.com.cn/templets/default/images/copyright_licence.png" target="_balnk">互联网新闻信息服务许可证编号：1012006044</a><br/>本报法律顾问： 岳仁东  律师<br/>消费日报社版权所有   Copyright   © 2001-2017 by www.xfrb.com.cn All Rights Reserved</p>
+<div style="width:300px;margin:0 auto; padding:20px 0;">
+<a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010602130018" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;" target="_blank"><img src="http://www.xfrb.com.cn/templets/default/images/bb.png" style="float:left;"><p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#FDFCFC;">京公网安备 11010602130018号</p></img></a>
+</div>
+</div>
+<script src="http://user.xfrb.com.cn/Public/Home/js/public.m.js" type="text/javascript"></script>
+<script>
+
+var baseUrl = "http://user.xfrb.com.cn/";
+var staticUrl = "http://user.xfrb.com.cn/Public/Home";  
+
+ $(document).ready(function() {
+
+    $(".nav_box ul li").mouseenter(function(event) {
+     $(this).css('background-color',$(this).css('border-top-color'));
+
+		$(this).children().css('color','#2aa1d4');
+   
+
+    });
+
+    $(".nav_box ul li").mouseleave(function(event) {
+
+      //$(this).css('background-color','#2aa1d4');
+		$(this).css('background-color','#408aa9');
+	$(this).children().css('color','#fff');
+    
+
+    });
+
+  });
+
+
+
+
+
+</script>
+<div class="zhuce_box" style="display: none;">
+<div class="zc_top">
+<div class="zc_top_text">
+<p class="zc_top_left">注册</p><p class="zc_top_right">X</p>
+</div>
+</div>
+<div style="background:#fff; height:34px; width: 445px">
+<p class="tj_text"></p>
+</div>
+<div class="zc_contet" style="background: #fff; margin-top: -34px; height: 380px;">
+<form id="reg2" name="form1">
+<input name="uname" onfocus="this.value = '';" style="margin-top:34px;" type="text" value="邮箱地址"/>
+<input id="" name="ugem" onfocus="this.value = '';" type="password" value="密码"/>
+<input id="" name="reugem" onfocus="this.value = '';" type="password" value="确认密码"/>
+<div class="yanzheng">
+<input class="text" id="" name="code" onfocus="this.value = '';" type="text" value="验证码"/>
+<div class="yanzheng_rt">
+<img onclick="this.src=this.src+'?'+Math.random()" src="http://user.xfrb.com.cn/index.php/Public/verify.html"/>
+</div>
+<div class="ba_btn">
+</div>
+</div>
+<div class="dl_tt">
+<!--  <a class="pp">已有账号 , 马上</a><a class="pp" style="color: #2a9fd1;">登陆</a>  
+ -->
+</div>
+<input class="btn" onclick="register()" style="font-family:'Adobe 黑体 Std R'; margin-top: 10px" type="button" value="立即注册"/>
+</form>
+<!-- <p class="dl">第三方账号登录</p>
+ <div class="zc_tb">
+  <a href=""><img src="http://www.xfrb.com.cn/templets/default/images/weibo.png"></a><a href=""><img src="http://www.xfrb.com.cn/templets/default/images/qq.png" ></a><a href=""><img src="http://www.xfrb.com.cn/templets/default/images/wenxin.png" ></a>
+  </div> -->
+</div>
+<div class="clearfix"></div>
+</div>
+<!--zhuce-->
+<div class="delu_box" style="display: none;">
+<div class="zc_top">
+<div class="zc_top_text">
+<p class="zc_top_left">登录</p><p class="zc_top_right">X</p>
+</div>
+</div>
+<div style="background: #fff; height:34px;">
+<p class="tj_text1"></p>
+</div>
+<div class="zc_contet" style="background: #fff; margin-top: -34px; height: 330px">
+<form class="reg" id="reg1">
+<input id="" name="uname" onfocus="this.value = '';" style="margin-top:34px;" type="text" value="邮箱"/>
+<input id="" name="ugem" onfocus="this.value = '';" type="password" value="密码"/>
+<div class="yanzheng">
+<input class="inp3" name="code" onfocus="this.value = '';" type="text" value="验证码"/>
+<div class="yanzheng_rt">
+<img onclick="this.src=this.src+'?'+Math.random()" src="http://user.xfrb.com.cn/index.php/Public/verify.html"/>
+</div>
+<div class="ba_btn">
+</div>
+</div>
+<div class="check_box">
+<div class="check_text_left" style="position: relative;">
+<div class="check_p">
+<input class="check_text" id="" name="" type="button" value="">
+<img class="ck_bg" height="9" id="ck_bg" src="http://www.xfrb.com.cn/templets/default/images/duigou_con_05.png" width="9"/>
+</input></div>
+<p class="ck_p">下次自动登录</p>
+</div>
+<div class="check_text_r">
+<p> <a href="http://user.xfrb.com.cn/index.php/Public/repassword.html">忘记密码？</a></p>
+</div>
+</div>
+<input class="btn1" onclick="login()" style="font-family:'Adobe 黑体 Std R';" type="button" value="立即登录"/>
+</form>
+<!--    <p class="dl" >第三方账号登录</p>
+
+   <div class="zc_tb">
+
+  <a href=""><img src="http://www.xfrb.com.cn/templets/default/images/weibo.png"></a><a onclick="thirdLogin('qq')"><img src="http://www.xfrb.com.cn/templets/default/images/qq.png"></a><a href=""><img src="http://www.xfrb.com.cn/templets/default/images/wenxin.png" ></a>
+
+  
+
+    </div> -->
+</div>
+</div>
+<div class="theme-popover-mask">
+</div>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?17787f75b2bfbf42a01cbbe5299f78b6";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+<script>
+
+$(".xinmeiti:eq(4)").mouseenter(
+  function(){
+    $(".xinmeiti_box ul").show()
+    }
+).mouseleave(
+  function(){
+    $(".xinmeiti_box ul").hide()
+    }
+)
+$(".xinmeiti_box ul").mouseenter(
+  function(){
+    $(this).show()
+    }
+).mouseleave(
+  function(){
+    $(this).hide()
+    }
+)
+</script>
+<!--bottombar-->
+</body>
+</html>, '\n']
