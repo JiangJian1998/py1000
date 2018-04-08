@@ -33,4 +33,5 @@ def count(f_path):
 
 if __name__ == '__main__':
     find_code("D:\\代码")
+    find_code("D:\\py")
     print("总代码行数为：%d"%sum)
